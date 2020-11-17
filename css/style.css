@@ -76,6 +76,7 @@ body {
   width: 40%;
   height: 10px;
   background-color: #000;
+  border-radius: 5px;
 }
 
 @media screen and (max-width: 1000px) {
@@ -117,6 +118,6 @@ body {
   }
 
   .mouth {
-    height: 5px;
+    height: 2px;
   }
 }
