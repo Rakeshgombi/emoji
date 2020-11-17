@@ -75,7 +75,7 @@ body {
   z-index: 5;
   width: 40%;
   height: 10px;
-  border: solid 5px rgb(0, 0, 0);
+  background-color: #000;
 }
 
 @media screen and (max-width: 1000px) {
